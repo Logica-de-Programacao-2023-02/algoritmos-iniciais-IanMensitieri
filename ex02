@@ -1,0 +1,66 @@
+1. leia A
+   leia B
+   resultado = A + B
+   escreva resultado
+   fim
+   
+2. leia temperatura
+   leia unidade = C
+   então resultado = (temperatura * 1,8) + 32
+   senão
+   então resultado = (temperatura - 32) / 1,8
+   escreva resultado
+   fim
+   
+3. leia a lista de números
+   faça a soma dos números da lista
+   então resultado = (a soma dos números / pela quantidade de números)
+   escreva resultado
+   fim
+   
+4. leia o número
+   leia fatorial é multiplique o número por todos os seus antecessores
+   faça calcule o falorial do número
+   escreva  resultado
+   fim
+
+5. leia a lista
+   leia um nome
+   faça procure esse nome na lista
+   fim
+
+6. leia o número
+   leia potência é o número multiplicado por ele mesmo quantas vezs o expôente mandar
+   faça calcule a potência
+   escreva o resultado
+   fim
+
+7. leia a lista
+   faça informe o número A
+   faça verifique se A é divisivel por ele e por 1
+   então informe que o número é primo
+   senão informe que o número não é primo
+   fim
+
+8. leia a imagem A
+   faça informe o valor da base de A
+   faça informe o valor da altura de A
+   então resultado = (base * altura / 2)
+   escreva o resultado
+   fim
+
+9. leia o juros
+   leia M = valor total
+   leia J = juros
+   leia C = capital aplicado
+   então resultado = (M = C + J)
+   escreva resultado
+   fim
+
+10.leia os números
+   leia os valores e os pesos
+   faça multiplique os valores pelos seus respectivos pesos
+   enquanto soma os resultados
+   faça pegue o resultado e divida pela soma dos pesos
+   escreva resultado
+   fim
